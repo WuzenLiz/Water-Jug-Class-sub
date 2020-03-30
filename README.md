@@ -1,1 +1,3 @@
-"# Water-Jug-Class-sub-" 
+# Bài toán rót nước
+Done with file waterjug.py but there is some bug will make it infinity LOOP
+I'll try to deal with it late becuz i'm so hungry
